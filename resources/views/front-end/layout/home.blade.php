@@ -30,7 +30,7 @@
                             </a>
                         </li>
                         <li class="login">
-                            <a id="account-btn" href="">Đăng nhập</a>
+                            <a id="account-btn" href="{{url('/login')}}">Đăng nhập</a>
                         </li>
                         <li>
                             <a href="">Dành cho nhà hàng</a>

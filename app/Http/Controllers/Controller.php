@@ -15,4 +15,7 @@ class Controller extends BaseController
     {
         return view('front-end/layout/home');        
     }
+    public function login(){
+        return view('front-end/pages/login-form');
+    }
 }
